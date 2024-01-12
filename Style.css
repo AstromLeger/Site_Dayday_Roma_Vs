@@ -1,0 +1,44 @@
+﻿body {
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    background: #ffffff;
+}
+
+img {
+    display: block;
+    /* max-width: 100%; */
+}
+
+.container {
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.navigation {
+    background: #222222;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Menu_button {
+    background: #222222;
+    border: none;
+}
+
+.container1 {
+    display: flex;
+    gap: 41px;
+    margin: 18px 0 19px 231px;
+}
+
+.container2 {
+    display: flex;
+    gap: 33px;
+    margin: 26px 240px 20px 0;
+}
